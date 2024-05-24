@@ -5,7 +5,7 @@
 **This project has a [Code of Conduct][].**
 
 ## Table of contents
-# Pritesh Pawar
+# Antivirus
 
 * [Installation](#Installation)
 * [Features](#Features)
